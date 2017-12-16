@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "unit": "mocha test/*.spec.js --exit"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZHChen8397/nodeJS_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZHChen8397/nodeJS_practice/issues"
+  },
+  "homepage": "https://github.com/ZHChen8397/nodeJS_practice#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  },
+  "devDependencies": {
+    "sinon": "^4.1.3"
+  }
+}
